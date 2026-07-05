@@ -2,11 +2,9 @@
 
 <img src="banner.png" width="100%" alt="banner"/>
 
-<br/><br/>
-
 <img src="foto.png" width="160"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/muhmdtamam">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I%27m+Muhamad+Tamam;Currently+learning+and+building" alt="Typing SVG" />
