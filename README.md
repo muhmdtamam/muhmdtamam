@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="banner"/>
+<img src="banner.png" width="100%" alt="banner"/>
+
+<br/><br/>
+
+<img src="foto.png" width="160"/>
 
 <br/><br/>
 
 <a href="https://github.com/muhmdtamam">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I%27m+Muhamad+Tamam;Currently+learning+and+building" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="foto.png" width="180" style="border-radius: 50%;" alt="profile photo"/>
 
 </div>
 
@@ -68,6 +68,16 @@ Right now I'm focused on WhatsApp/Telegram bots, simple web storefronts, and res
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmdtamam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhmdtamam/muhmdtamam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 
 </div>
 
