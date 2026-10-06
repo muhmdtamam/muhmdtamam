@@ -88,7 +88,7 @@ Right now I'm focused on WhatsApp/Telegram bots, simple web storefronts, and res
 <a href="https://github.com/muhmdtamam/tamam-baileys">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhmdtamam&repo=tamam-baileys&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/muhmdtamam/my-app">
+<a href="https://github.com/muhmdtamam/simple-profile-web">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhmdtamam&repo=my-app&theme=tokyonight&hide_border=true"/>
 </a>
 
